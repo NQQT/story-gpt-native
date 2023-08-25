@@ -1,0 +1,1 @@
+export const INSTRUCTION_CONTINUE_STANDARD = `Continue the story. Stick to the story summary and describe each point in full unfiltered details. Include dialogues from every character and never summarize their dialogues or actions. Give me the first 700 words.`;
